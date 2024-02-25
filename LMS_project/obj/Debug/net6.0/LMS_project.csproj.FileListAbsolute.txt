@@ -23,3 +23,4 @@ C:\Users\Diana Paola\Documents\Bow Valley Software Development\Term 2 202401\Web
 C:\Users\Diana Paola\Documents\Bow Valley Software Development\Term 2 202401\Web-ASP-NET\LMS_project\LMS_project\obj\Debug\net6.0\LMS_project.pdb
 C:\Users\Diana Paola\Documents\Bow Valley Software Development\Term 2 202401\Web-ASP-NET\LMS_project\LMS_project\obj\Debug\net6.0\LMS_project.genruntimeconfig.cache
 C:\Users\Diana Paola\Documents\Bow Valley Software Development\Term 2 202401\Web-ASP-NET\LMS_project\LMS_project\obj\Debug\net6.0\ref\LMS_project.dll
+C:\Users\Diana Paola\Documents\Bow Valley Software Development\Term 2 202401\Web-ASP-NET\LMS_project\LMS_project\obj\Debug\net6.0\LMS_project.sourcelink.json
